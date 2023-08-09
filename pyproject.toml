@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dissertation"
+version = "0.1.0"
+description = ""
+authors = ["Milos Svana <milos.svana@mailfence.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
