@@ -5,4 +5,4 @@ would allow local governements to utilize social media data as a decision suppor
 at my [arXiv paper](https://arxiv.org/abs/2308.04124) if you would like to learn more.
 
 Feedback is highly appreciated! Just drop me an e-mail:
-(milos.svana@mailfence.com)[mailto:milos.svana@mailfence.com]
+[milos.svana@mailfence.com](mailto:milos.svana@mailfence.com).
