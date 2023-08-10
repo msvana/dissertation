@@ -6,3 +6,9 @@ at my [arXiv paper](https://arxiv.org/abs/2308.04124) if you would like to learn
 
 Feedback is highly appreciated! Just drop me an e-mail:
 [milos.svana@mailfence.com](mailto:milos.svana@mailfence.com).
+
+## Dev environment notes
+
+- The [pyproject.toml](./pyproject.toml) configuration file assumes you have a system with an nVidia GPU supporting
+  CUDA 11.8.
+- You also need Python header files to be available on your machine. Otherwise, the installation might fail.
