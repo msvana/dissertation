@@ -1,2 +1,4 @@
 datasets/
 .idea/
+*.bkp
+**/.ipynb_checkpoints/
